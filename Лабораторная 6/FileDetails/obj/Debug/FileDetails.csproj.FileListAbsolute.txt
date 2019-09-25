@@ -1,0 +1,7 @@
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 6\FileDetails\bin\Debug\FileDetails.exe.config
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 6\FileDetails\bin\Debug\FileDetails.exe
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 6\FileDetails\bin\Debug\FileDetails.pdb
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 6\FileDetails\obj\Debug\FileDetails.csprojAssemblyReference.cache
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 6\FileDetails\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 6\FileDetails\obj\Debug\FileDetails.exe
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 6\FileDetails\obj\Debug\FileDetails.pdb

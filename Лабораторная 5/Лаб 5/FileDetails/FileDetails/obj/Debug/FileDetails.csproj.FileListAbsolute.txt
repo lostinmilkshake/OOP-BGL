@@ -1,0 +1,7 @@
+C:\labs\lab_5\FileDetails\FileDetails\bin\Debug\FileDetails.exe.config
+C:\labs\lab_5\FileDetails\FileDetails\bin\Debug\FileDetails.exe
+C:\labs\lab_5\FileDetails\FileDetails\bin\Debug\FileDetails.pdb
+C:\labs\lab_5\FileDetails\FileDetails\obj\Debug\FileDetails.csprojAssemblyReference.cache
+C:\labs\lab_5\FileDetails\FileDetails\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+C:\labs\lab_5\FileDetails\FileDetails\obj\Debug\FileDetails.exe
+C:\labs\lab_5\FileDetails\FileDetails\obj\Debug\FileDetails.pdb

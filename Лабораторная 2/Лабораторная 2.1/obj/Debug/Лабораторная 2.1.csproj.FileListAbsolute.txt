@@ -1,0 +1,6 @@
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 2.1\bin\Debug\Лабораторная 2.1.exe.config
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 2.1\bin\Debug\Лабораторная 2.1.exe
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 2.1\bin\Debug\Лабораторная 2.1.pdb
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 2.1\obj\Debug\Лабораторная 2.1.csproj.CoreCompileInputs.cache
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 2.1\obj\Debug\Лабораторная 2.1.exe
+C:\Users\Kendrick\Desktop\Егор Студент\5 семестр\Лабы ООП\Лабораторная 2.1\obj\Debug\Лабораторная 2.1.pdb
